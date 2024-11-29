@@ -1,0 +1,16 @@
+{
+  "name": "07-como-instalar-e-utilizar",
+  "version": "1.0.0",
+  "description": "Se preferir instalar globalmente o TypeScript, apenas faça o seguinte comando pelo terminal do npm:\r ```npm\r npm install -g typescript\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
