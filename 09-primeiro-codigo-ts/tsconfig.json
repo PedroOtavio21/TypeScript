@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "outDir": "dist", // Diretório de saída em compilação de código ts para js
+    }
+}

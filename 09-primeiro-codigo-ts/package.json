@@ -1,0 +1,15 @@
+{
+  "name": "09-primeiro-codigo-ts",
+  "version": "1.0.0",
+  "description": "primeiro código em ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --watch"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
